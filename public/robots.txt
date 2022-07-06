@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+#to disallow robots and web crawlers
+User-agent: *
+Disallow:
