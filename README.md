@@ -1,4 +1,4 @@
-# cYweather React Weather App
+# Cyweather React Weather App
 
 # frontend challenge
 
